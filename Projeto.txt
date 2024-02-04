@@ -4,3 +4,5 @@ coisa 5
 coisa 3
 coisa 4
 coia 10
+coisa 7
+coisa 8
